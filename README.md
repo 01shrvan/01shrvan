@@ -1,2 +1,2 @@
 ### hey, i'm Shrvan! 
-#### explore my work and projects at [shrvan-benke.vercel.app](https://shrvan-benke.vercel.app)!
+#### explore my work and projects at [my portfolio](https://www.01shrvan.tech/)!
