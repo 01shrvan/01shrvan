@@ -1,2 +1,2 @@
-### hey, i'm Shrvan! 
-#### explore my work and projects at [my portfolio](https://www.01shrvan.tech/)!
+### shrvan here
+[portfolio](https://www.01shrvan.tech/) — just the work, no fluff.
