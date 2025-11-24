@@ -1,2 +1,2 @@
 ### shrvan here
-[portfolio](https://www.01shrvan.tech/) — just the work, no fluff.
+[portfolio](https://01shrvanxyz.vercel.app/) — just the work, no fluff.
