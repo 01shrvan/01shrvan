@@ -1,5 +1,9 @@
-[![01shrvan](header.png)](https://shrvans-space.vercel.app)
+<p align="center">
+  <a href="https://shrvan.xyz">
+    <img src="header.png" alt="01shrvan" width="100%" />
+  </a>
+</p>
 
-`small web things // loud pixels`
+`18 // building a small internet thing`
 
-**[space](https://shrvans-space.vercel.app)**
+**[shrvan.xyz](https://shrvan.xyz)**
