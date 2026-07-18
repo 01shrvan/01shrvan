@@ -4,6 +4,10 @@
   </a>
 </p>
 
+<samp>
+  
 `18 // building a small internet thing`
 
-**[shrvan.xyz](https://shrvan.xyz)**
+ &bull; <a href="https://shrvan.xyz"><strong>space</strong></a>
+
+ </samp>
