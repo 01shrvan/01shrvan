@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shrvan.xyz">
-    <img src="header.png" alt="01shrvan" width="100%" />
+    <img src="astra.gif" alt="01shrvan" width="100%" />
   </a>
 </p>
 
