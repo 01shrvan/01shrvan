@@ -7,7 +7,4 @@
 <samp>
   
 `18 // building a small internet thing`
-
- &bull; <a href="https://shrvan.xyz"><strong>space</strong></a>
-
  </samp>
